@@ -2,7 +2,7 @@
 
 Created by Zhaoqing Wang*, Yu Lu, Qiang Li*, Xunqiang Tao, Yandong Guo, Mingming Gong and Tongliang Liu
 
-This is an official PyTorch implementation of the [CRIS](https://arxiv.org/pdf/2111.15174😞
+This is an official PyTorch implementation of the [CRIS](https://arxiv.org/pdf/2111.15174)
 
 CLIP-Driven Referring Image Segmentation (CRIS) framework is proposed to transfer the image-level semantic  knowledge of the CLIP model to dense pixel-level referring image segmentation. More specifically, we design a vision-language decoder to propagate fine-grained semantic information from textual representations to each pixel-level activation, which promotes consistency between the two modalities. In addition, we present text-to-pixel contrastive learning to explicitly enforce the text feature similar to the related pixel-level features and dissimilar to the irrelevances.
 
